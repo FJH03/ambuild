@@ -7,7 +7,7 @@ For more information, see: https://wiki.alliedmods.net/AMBuild
 # Installation
 
 ```
-git clone https://github.com/alliedmodders/ambuild
+git clone https://github.com/FJH03/ambuild
 pip install ./ambuild
 ```
 
